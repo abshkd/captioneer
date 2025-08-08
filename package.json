@@ -1,0 +1,22 @@
+{
+  "name": "watermark-tool",
+  "version": "1.0.0",
+  "description": "A static watermark tool served by Cloudflare Workers",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "keywords": [
+    "cloudflare",
+    "worker",
+    "watermark",
+    "image"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
