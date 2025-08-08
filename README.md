@@ -1,7 +1,9 @@
 # Watermark Tool - Cloudflare worker
-## Vibe coded with ❤ and https://justlab.ai
+## Vibe coded with ❤ and https://justlab.ai APIs
 
 A completely static, client-side watermark tool served via Cloudflare Workers. All image processing happens in the browser using Canvas API.
+
+try it out here https://caption.justlab.ai/
 
 ## Features
 
